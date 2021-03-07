@@ -1,0 +1,290 @@
+[
+  {
+    "priority": 1,
+    "suit": "hearts",
+    "url": "https://astrometa.ru/images/winds/karty2/6-chervei.png",
+    "isRed": true,
+    "isOpen": false,
+    "id": 0
+  },
+  {
+    "priority": 1,
+    "suit": "bubi",
+    "url": "https://astrometa.ru/images/winds/karty2/6-buben.png",
+    "isRed": true,
+    "isOpen": false,
+    "id": 1
+  },
+  {
+    "priority": 1,
+    "suit": "baptize",
+    "isRed": false,
+    "url": "https://astrometa.ru/images/winds/karty2/6-tref.png",
+    "id": 2,
+    "isOpen": false
+  },
+  {
+    "priority": 1,
+    "suit": "peaks",
+    "isRed": false,
+    "url": "https://astrometa.ru/images/winds/karty2/6-pik.png",
+    "id": 3,
+    "isOpen": false
+  },
+  {
+    "priority": 2,
+    "suit": "hearts",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/7-chervei.png",
+    "id": 4,
+    "isOpen": false
+  },
+  {
+    "priority": 2,
+    "suit": "bubi",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/7-buben.png",
+    "id": 5,
+    "isOpen": false
+  },
+  {
+    "priority": 2,
+    "suit": "baptize",
+    "url": "https://astrometa.ru/images/winds/karty2/7-tref.png",
+    "isRed": false,
+    "id": 6,
+    "isOpen": false
+  },
+  {
+    "priority": 2,
+    "url": "https://astrometa.ru/images/winds/karty2/7-pik.png",
+    "suit": "peaks",
+    "isRed": false,
+    "id": 7,
+    "isOpen": false
+  },
+  {
+    "priority": 3,
+    "suit": "hearts",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/8-chervei.png",
+    "id": 8,
+    "isOpen": false
+  },
+  {
+    "priority": 3,
+    "suit": "bubi",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/8-buben.png",
+    "id": 9,
+    "isOpen": false
+  },
+  {
+    "priority": 3,
+    "suit": "baptize",
+    "url": "https://astrometa.ru/images/winds/karty2/8-tref.png",
+    "isRed": false,
+    "id": 10,
+    "isOpen": false
+  },
+  {
+    "priority": 3,
+    "suit": "peaks",
+    "url": "https://astrometa.ru/images/winds/karty2/8-pik.png",
+    "isRed": false,
+    "id": 11,
+    "isOpen": false
+  },
+  {
+    "priority": 4,
+    "suit": "hearts",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/9-chervei.png",
+    "id": 12,
+    "isOpen": false
+  },
+  {
+    "priority": 4,
+    "suit": "bubi",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/9-buben.png",
+    "id": 13,
+    "isOpen": false
+  },
+  {
+    "priority": 4,
+    "suit": "baptize",
+    "url": "https://astrometa.ru/images/winds/karty2/9-tref.png",
+    "isRed": false,
+    "id": 14,
+    "isOpen": false
+  },
+  {
+    "priority": 4,
+    "suit": "peaks",
+    "url": "https://astrometa.ru/images/winds/karty2/9-pik.png",
+    "isRed": false,
+    "id": 15,
+    "isOpen": false
+  },
+  {
+    "priority": 5,
+    "suit": "hearts",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/10-chervei.png",
+    "id": 16,
+    "isOpen": false
+  },
+  {
+    "priority": 5,
+    "suit": "bubi",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/10-buben.png",
+    "id": 17,
+    "isOpen": false
+  },
+  {
+    "priority": 5,
+    "suit": "baptize",
+    "url": "https://astrometa.ru/images/winds/karty2/10-tref.png",
+    "isRed": false,
+    "id": 18,
+    "isOpen": false
+  },
+  {
+    "priority": 5,
+    "suit": "peaks",
+    "url": "https://astrometa.ru/images/winds/karty2/10-pik.png",
+    "isRed": false,
+    "id": 19,
+    "isOpen": false
+  },
+  {
+    "priority": 6,
+    "suit": "hearts",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/valet-chervei.png",
+    "id": 20,
+    "isOpen": false
+  },
+  {
+    "priority": 6,
+    "suit": "bubi",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/valet-buben.png",
+    "id": 21,
+    "isOpen": false
+  },
+  {
+    "priority": 6,
+    "suit": "baptize",
+    "url": "https://astrometa.ru/images/winds/karty2/valet-tref.png",
+    "isRed": false,
+    "id": 22,
+    "isOpen": false
+  },
+  {
+    "priority": 6,
+    "suit": "peaks",
+    "url": "https://astrometa.ru/images/winds/karty2/valet-pik.png",
+    "isRed": false,
+    "id": 23,
+    "isOpen": false
+  },
+  {
+    "priority": 7,
+    "suit": "hearts",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/dama-chervei.png",
+    "id": 24,
+    "isOpen": false
+  },
+  {
+    "priority": 7,
+    "suit": "bubi",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/dama-buben.png",
+    "id": 25,
+    "isOpen": false
+  },
+  {
+    "priority": 7,
+    "suit": "baptize",
+    "url": "https://astrometa.ru/images/winds/karty2/dama-tref.png",
+    "isRed": false,
+    "id": 26,
+    "isOpen": false
+  },
+  {
+    "priority": 7,
+    "suit": "peaks",
+    "url": "https://astrometa.ru/images/winds/karty2/dama-pik.png",
+    "isRed": false,
+    "id": 27,
+    "isOpen": false
+  },
+  {
+    "priority": 8,
+    "suit": "hearts",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/korol-chervei.png",
+    "id": 28,
+    "isOpen": false
+  },
+  {
+    "priority": 8,
+    "suit": "bubi",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/korol-buben.png",
+    "id": 29,
+    "isOpen": false
+  },
+  {
+    "priority": 8,
+    "suit": "baptize",
+    "url": "https://astrometa.ru/images/winds/karty2/korol-tref.png",
+    "isRed": false,
+    "id": 30,
+    "isOpen": false
+  },
+  {
+    "priority": 8,
+    "suit": "peaks",
+    "url": "https://astrometa.ru/images/winds/karty2/korol-pik.png",
+    "isRed": false,
+    "id": 31,
+    "isOpen": false
+  },
+  {
+    "priority": 0,
+    "suit": "hearts",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/tuz-chervei.png",
+    "id": 32,
+    "isOpen": false
+  },
+  {
+    "priority": 0,
+    "suit": "bubi",
+    "isRed": true,
+    "url": "https://astrometa.ru/images/winds/karty2/tuz-buben.png",
+    "id": 33,
+    "isOpen": false
+  },
+  {
+    "priority": 0,
+    "suit": "baptize",
+    "url": "https://astrometa.ru/images/winds/karty2/tuz-tref.png",
+    "isRed": false,
+    "id": 34,
+    "isOpen": false
+  },
+  {
+    "priority": 0,
+    "suit": "peaks",
+    "isRed": false,
+    "url": "https://astrometa.ru/images/winds/karty2/tuz-pik.png",
+    "id": 35,
+    "isOpen": false
+  }
+]
